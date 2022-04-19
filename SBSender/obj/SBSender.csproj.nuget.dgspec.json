@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBSender/SBSender.csproj": {}
+  },
+  "projects": {
+    "/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBSender/SBSender.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBSender/SBSender.csproj",
+        "projectName": "SBSender",
+        "projectPath": "/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBSender/SBSender.csproj",
+        "packagesPath": "/Users/sreenivasulu.chitlam/.nuget/packages/",
+        "outputPath": "/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBSender/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sreenivasulu.chitlam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/SBShared.csproj": {
+                "projectPath": "/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/SBShared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/SBShared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/SBShared.csproj",
+        "projectName": "SBShared",
+        "projectPath": "/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/SBShared.csproj",
+        "packagesPath": "/Users/sreenivasulu.chitlam/.nuget/packages/",
+        "outputPath": "/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sreenivasulu.chitlam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.DataAnnotations": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/bin/Debug/netstandard2.1/SBShared.deps.json
+/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/bin/Debug/netstandard2.1/SBShared.dll
+/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/bin/Debug/netstandard2.1/SBShared.pdb
+/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/obj/Debug/netstandard2.1/SBShared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/obj/Debug/netstandard2.1/SBShared.AssemblyInfoInputs.cache
+/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/obj/Debug/netstandard2.1/SBShared.AssemblyInfo.cs
+/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/obj/Debug/netstandard2.1/SBShared.csproj.CoreCompileInputs.cache
+/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/obj/Debug/netstandard2.1/SBShared.dll
+/Users/sreenivasulu.chitlam/Projects/ServiceBusDemo/SBShared/obj/Debug/netstandard2.1/SBShared.pdb
